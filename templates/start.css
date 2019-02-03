@@ -1,0 +1,8 @@
+body {background: #c23616;}
+h1 {text-align: center;}
+form {display: flex; flex-wrap: wrap; justify-content: center;}
+form div {display: flex; justify-content: center; width: 100%; padding: 10px 0;}
+label {font-size: 18px; padding-right: 10px;}
+input {cursor: pointer;}
+.send {width: 100px; height: 40px; border: none; background-color: #00a8ff; margin-top: 30px; font-size: 20px;}
+.select {width: 300px; font-size: 18px;}
